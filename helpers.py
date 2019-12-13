@@ -1,3 +1,8 @@
+""" Universidad Yachay Tech
+Diego Hernán Suntaxi Domínguez
+Curso de Web Programming
+Prof. Rigoberto Fonseca  
+ """
 from flask import redirect, render_template, request, session
 from functools import wraps
 

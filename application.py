@@ -1,3 +1,8 @@
+""" Universidad Yachay Tech
+Diego Hernán Suntaxi Domínguez
+Curso de Web Programming
+Prof. Rigoberto Fonseca  
+ """
 import os
 import requests
 from helpers import login_required

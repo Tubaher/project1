@@ -3,7 +3,7 @@
 #Curso de Web Programming
 #Prof. Rigoberto Fonseca  
 
-certifi==2018.11.29
+certifi==2022.12.7
 chardet==3.0.4
 Click==7.0
 Flask==1.0.2
